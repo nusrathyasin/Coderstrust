@@ -27,6 +27,7 @@ body{
 	padding-top:20px;
 	margin-right:80px;
 	font-size:30px;
+	display:flex;
 }
 #side_header img{
 	width:30px;
