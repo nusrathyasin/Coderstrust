@@ -27,12 +27,16 @@ body{
 	padding-top:20px;
 	margin-right:80px;
 	font-size:30px;
-	display:flex;
+	display:inline;
 }
 #side_header img{
 	width:30px;
 	height:30px;
 }
+#side_header ul{
+	text-decoration:none;
+}
+
 
 #navigation_bar{
 	padding-top:10px;
