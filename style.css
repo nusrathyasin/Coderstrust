@@ -23,16 +23,17 @@ body{
 	font-family:Tangerine, cursive;
 }
 #side_header{
-	//float:right;
+	float:right;
 	padding-top:20px;
-	//margin-right:80px;
+	margin-right:80px;
 	font-size:30px;
-	display:inline;
-}
-#side_header img{
-	width:30px;
-	height:30px;
-}
+	//position:fixed;
+	}
+	#side_header img{
+	width:40px;
+	height:40px;
+
+	}
 
 
 
